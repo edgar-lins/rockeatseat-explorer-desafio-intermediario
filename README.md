@@ -4,6 +4,8 @@
 
 Desafio desenvolvido no curso Explorer da rocketseat
 
+* Avançando no HTML e CSS
+
 ![preview](./.github/preview.png)
 
 
